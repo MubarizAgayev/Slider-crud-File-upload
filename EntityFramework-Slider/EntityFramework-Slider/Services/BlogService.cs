@@ -14,7 +14,7 @@ namespace EntityFramework_Slider.Services
         }
         public async Task<IEnumerable<Blog>> GetAll()
         {
-            return await _context.Blogs.Take(3).ToListAsync();
+            return await _context.Blogs.ToListAsync();
         }
 
         public async Task<BlogHeader> GetBlogHeader()

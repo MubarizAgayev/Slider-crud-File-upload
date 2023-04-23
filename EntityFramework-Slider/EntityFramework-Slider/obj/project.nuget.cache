@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "w/zMSzETWvy5/h+H8+7AUzLfbwec1NTvydgr0DC3/5TuLSCPQI8oeeRVaA+eljor6AbwMbLSVD7vX0Y+JVHYXQ==",
+  "dgSpecHash": "Sfp1dJnd4PYKlDx8NgBfSulSh7udnmgfdaBGquIebcq6EsDWQfb3Mq7RFmBoEUsp+Lf6bI6MeI1/uWDHUm+t5w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\EntityFramework-Slider.csproj",
+  "projectFilePath": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\EntityFramework-Slider.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

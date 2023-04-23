@@ -1,703 +1,715 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\EntityFramework-Slider.bundle.scp.css",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\EntityFramework-Slider.bundle.scp.css",
       "PackagePath": "staticwebassets\\EntityFramework-Slider.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\admin\\css\\bootstrap-social.css",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\admin\\css\\bootstrap-social.css",
       "PackagePath": "staticwebassets\\admin\\css\\bootstrap-social.css"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\admin\\css\\bootstrap-theme.min.css",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\admin\\css\\bootstrap-theme.min.css",
       "PackagePath": "staticwebassets\\admin\\css\\bootstrap-theme.min.css"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\admin\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\admin\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\admin\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\admin\\css\\dataTables\\dataTables.bootstrap.css",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\admin\\css\\dataTables\\dataTables.bootstrap.css",
       "PackagePath": "staticwebassets\\admin\\css\\dataTables\\dataTables.bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\admin\\css\\dataTables\\dataTables.responsive.css",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\admin\\css\\dataTables\\dataTables.responsive.css",
       "PackagePath": "staticwebassets\\admin\\css\\dataTables\\dataTables.responsive.css"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\admin\\css\\font-awesome.min.css",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\admin\\css\\font-awesome.min.css",
       "PackagePath": "staticwebassets\\admin\\css\\font-awesome.min.css"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\admin\\css\\main.css",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\admin\\css\\main.css",
       "PackagePath": "staticwebassets\\admin\\css\\main.css"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\admin\\css\\metisMenu.min.css",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\admin\\css\\metisMenu.min.css",
       "PackagePath": "staticwebassets\\admin\\css\\metisMenu.min.css"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\admin\\css\\morris.css",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\admin\\css\\morris.css",
       "PackagePath": "staticwebassets\\admin\\css\\morris.css"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\admin\\css\\startmin.css",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\admin\\css\\startmin.css",
       "PackagePath": "staticwebassets\\admin\\css\\startmin.css"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\admin\\css\\timeline.css",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\admin\\css\\timeline.css",
       "PackagePath": "staticwebassets\\admin\\css\\timeline.css"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\admin\\fonts\\FontAwesome.otf",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\admin\\fonts\\FontAwesome.otf",
       "PackagePath": "staticwebassets\\admin\\fonts\\FontAwesome.otf"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\admin\\fonts\\fontawesome-webfont.eot",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\admin\\fonts\\fontawesome-webfont.eot",
       "PackagePath": "staticwebassets\\admin\\fonts\\fontawesome-webfont.eot"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\admin\\fonts\\fontawesome-webfont.svg",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\admin\\fonts\\fontawesome-webfont.svg",
       "PackagePath": "staticwebassets\\admin\\fonts\\fontawesome-webfont.svg"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\admin\\fonts\\fontawesome-webfont.ttf",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\admin\\fonts\\fontawesome-webfont.ttf",
       "PackagePath": "staticwebassets\\admin\\fonts\\fontawesome-webfont.ttf"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\admin\\fonts\\fontawesome-webfont.woff",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\admin\\fonts\\fontawesome-webfont.woff",
       "PackagePath": "staticwebassets\\admin\\fonts\\fontawesome-webfont.woff"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\admin\\fonts\\fontawesome-webfont.woff2",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\admin\\fonts\\fontawesome-webfont.woff2",
       "PackagePath": "staticwebassets\\admin\\fonts\\fontawesome-webfont.woff2"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\admin\\fonts\\glyphicons-halflings-regular.eot",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\admin\\fonts\\glyphicons-halflings-regular.eot",
       "PackagePath": "staticwebassets\\admin\\fonts\\glyphicons-halflings-regular.eot"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\admin\\fonts\\glyphicons-halflings-regular.svg",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\admin\\fonts\\glyphicons-halflings-regular.svg",
       "PackagePath": "staticwebassets\\admin\\fonts\\glyphicons-halflings-regular.svg"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\admin\\fonts\\glyphicons-halflings-regular.ttf",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\admin\\fonts\\glyphicons-halflings-regular.ttf",
       "PackagePath": "staticwebassets\\admin\\fonts\\glyphicons-halflings-regular.ttf"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\admin\\fonts\\glyphicons-halflings-regular.woff",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\admin\\fonts\\glyphicons-halflings-regular.woff",
       "PackagePath": "staticwebassets\\admin\\fonts\\glyphicons-halflings-regular.woff"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\admin\\fonts\\glyphicons-halflings-regular.woff2",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\admin\\fonts\\glyphicons-halflings-regular.woff2",
       "PackagePath": "staticwebassets\\admin\\fonts\\glyphicons-halflings-regular.woff2"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\admin\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\admin\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\admin\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\admin\\js\\dataTables\\dataTables.bootstrap.min.js",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\admin\\js\\dataTables\\dataTables.bootstrap.min.js",
       "PackagePath": "staticwebassets\\admin\\js\\dataTables\\dataTables.bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\admin\\js\\dataTables\\jquery.dataTables.min.js",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\admin\\js\\dataTables\\jquery.dataTables.min.js",
       "PackagePath": "staticwebassets\\admin\\js\\dataTables\\jquery.dataTables.min.js"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\admin\\js\\flot-data.js",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\admin\\js\\flot-data.js",
       "PackagePath": "staticwebassets\\admin\\js\\flot-data.js"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\admin\\js\\flot\\excanvas.min.js",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\admin\\js\\flot\\excanvas.min.js",
       "PackagePath": "staticwebassets\\admin\\js\\flot\\excanvas.min.js"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\admin\\js\\flot\\jquery.colorhelpers.js",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\admin\\js\\flot\\jquery.colorhelpers.js",
       "PackagePath": "staticwebassets\\admin\\js\\flot\\jquery.colorhelpers.js"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\admin\\js\\flot\\jquery.flot.canvas.js",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\admin\\js\\flot\\jquery.flot.canvas.js",
       "PackagePath": "staticwebassets\\admin\\js\\flot\\jquery.flot.canvas.js"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\admin\\js\\flot\\jquery.flot.categories.js",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\admin\\js\\flot\\jquery.flot.categories.js",
       "PackagePath": "staticwebassets\\admin\\js\\flot\\jquery.flot.categories.js"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\admin\\js\\flot\\jquery.flot.crosshair.js",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\admin\\js\\flot\\jquery.flot.crosshair.js",
       "PackagePath": "staticwebassets\\admin\\js\\flot\\jquery.flot.crosshair.js"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\admin\\js\\flot\\jquery.flot.errorbars.js",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\admin\\js\\flot\\jquery.flot.errorbars.js",
       "PackagePath": "staticwebassets\\admin\\js\\flot\\jquery.flot.errorbars.js"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\admin\\js\\flot\\jquery.flot.fillbetween.js",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\admin\\js\\flot\\jquery.flot.fillbetween.js",
       "PackagePath": "staticwebassets\\admin\\js\\flot\\jquery.flot.fillbetween.js"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\admin\\js\\flot\\jquery.flot.image.js",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\admin\\js\\flot\\jquery.flot.image.js",
       "PackagePath": "staticwebassets\\admin\\js\\flot\\jquery.flot.image.js"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\admin\\js\\flot\\jquery.flot.js",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\admin\\js\\flot\\jquery.flot.js",
       "PackagePath": "staticwebassets\\admin\\js\\flot\\jquery.flot.js"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\admin\\js\\flot\\jquery.flot.navigate.js",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\admin\\js\\flot\\jquery.flot.navigate.js",
       "PackagePath": "staticwebassets\\admin\\js\\flot\\jquery.flot.navigate.js"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\admin\\js\\flot\\jquery.flot.pie.js",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\admin\\js\\flot\\jquery.flot.pie.js",
       "PackagePath": "staticwebassets\\admin\\js\\flot\\jquery.flot.pie.js"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\admin\\js\\flot\\jquery.flot.resize.js",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\admin\\js\\flot\\jquery.flot.resize.js",
       "PackagePath": "staticwebassets\\admin\\js\\flot\\jquery.flot.resize.js"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\admin\\js\\flot\\jquery.flot.selection.js",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\admin\\js\\flot\\jquery.flot.selection.js",
       "PackagePath": "staticwebassets\\admin\\js\\flot\\jquery.flot.selection.js"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\admin\\js\\flot\\jquery.flot.stack.js",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\admin\\js\\flot\\jquery.flot.stack.js",
       "PackagePath": "staticwebassets\\admin\\js\\flot\\jquery.flot.stack.js"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\admin\\js\\flot\\jquery.flot.symbol.js",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\admin\\js\\flot\\jquery.flot.symbol.js",
       "PackagePath": "staticwebassets\\admin\\js\\flot\\jquery.flot.symbol.js"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\admin\\js\\flot\\jquery.flot.threshold.js",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\admin\\js\\flot\\jquery.flot.threshold.js",
       "PackagePath": "staticwebassets\\admin\\js\\flot\\jquery.flot.threshold.js"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\admin\\js\\flot\\jquery.flot.time.js",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\admin\\js\\flot\\jquery.flot.time.js",
       "PackagePath": "staticwebassets\\admin\\js\\flot\\jquery.flot.time.js"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\admin\\js\\flot\\jquery.flot.tooltip.min.js",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\admin\\js\\flot\\jquery.flot.tooltip.min.js",
       "PackagePath": "staticwebassets\\admin\\js\\flot\\jquery.flot.tooltip.min.js"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\admin\\js\\jquery.min.js",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\admin\\js\\jquery.min.js",
       "PackagePath": "staticwebassets\\admin\\js\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\admin\\js\\metisMenu.min.js",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\admin\\js\\metisMenu.min.js",
       "PackagePath": "staticwebassets\\admin\\js\\metisMenu.min.js"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\admin\\js\\morris-data.js",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\admin\\js\\morris-data.js",
       "PackagePath": "staticwebassets\\admin\\js\\morris-data.js"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\admin\\js\\morris.min.js",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\admin\\js\\morris.min.js",
       "PackagePath": "staticwebassets\\admin\\js\\morris.min.js"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\admin\\js\\raphael.min.js",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\admin\\js\\raphael.min.js",
       "PackagePath": "staticwebassets\\admin\\js\\raphael.min.js"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\admin\\js\\startmin.js",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\admin\\js\\startmin.js",
       "PackagePath": "staticwebassets\\admin\\js\\startmin.js"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\css\\StyleSheet.css",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\css\\StyleSheet.css",
       "PackagePath": "staticwebassets\\css\\StyleSheet.css"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\css\\style.css",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\css\\style.css",
       "PackagePath": "staticwebassets\\css\\style.css"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\css\\style.css.map",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\css\\style.css.map",
       "PackagePath": "staticwebassets\\css\\style.css.map"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\img\\blog-feature-img-1.jpg",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\img\\4296434a-7940-4947-afa0-b7f9aa9b0403_Cool-Harry-Potter-Wallpaper-for-Desktop.jpg",
+      "PackagePath": "staticwebassets\\img\\4296434a-7940-4947-afa0-b7f9aa9b0403_Cool-Harry-Potter-Wallpaper-for-Desktop.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\img\\85bfb7e5-c323-42ea-b73c-81830c82657e_Cool-Harry-Potter-Wallpaper-for-Desktop.jpg",
+      "PackagePath": "staticwebassets\\img\\85bfb7e5-c323-42ea-b73c-81830c82657e_Cool-Harry-Potter-Wallpaper-for-Desktop.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\img\\blog-feature-img-1.jpg",
       "PackagePath": "staticwebassets\\img\\blog-feature-img-1.jpg"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\img\\blog-feature-img-3.jpg",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\img\\blog-feature-img-3.jpg",
       "PackagePath": "staticwebassets\\img\\blog-feature-img-3.jpg"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\img\\blog-feature-img-4.jpg",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\img\\blog-feature-img-4.jpg",
       "PackagePath": "staticwebassets\\img\\blog-feature-img-4.jpg"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\img\\favicon.png",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\img\\c28a47e1-2792-4c8f-aebd-8afb30650b86_Audi.jpg",
+      "PackagePath": "staticwebassets\\img\\c28a47e1-2792-4c8f-aebd-8afb30650b86_Audi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\img\\favicon.png",
       "PackagePath": "staticwebassets\\img\\favicon.png"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\img\\footer-bottom-1.png",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\img\\footer-bottom-1.png",
       "PackagePath": "staticwebassets\\img\\footer-bottom-1.png"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\img\\h1-custom-icon.png",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\img\\h1-custom-icon.png",
       "PackagePath": "staticwebassets\\img\\h1-custom-icon.png"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\img\\h2-sign-img.png",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\img\\h2-sign-img.png",
       "PackagePath": "staticwebassets\\img\\h2-sign-img.png"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\img\\h3-background-img.jpg",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\img\\h3-background-img.jpg",
       "PackagePath": "staticwebassets\\img\\h3-background-img.jpg"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\img\\h3-slider-background-2.jpg",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\img\\h3-slider-background-2.jpg",
       "PackagePath": "staticwebassets\\img\\h3-slider-background-2.jpg"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\img\\h3-slider-background-3.jpg",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\img\\h3-slider-background-3.jpg",
       "PackagePath": "staticwebassets\\img\\h3-slider-background-3.jpg"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\img\\h3-slider-background.jpg",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\img\\h3-slider-background.jpg",
       "PackagePath": "staticwebassets\\img\\h3-slider-background.jpg"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\img\\h3-team-img-1.png",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\img\\h3-team-img-1.png",
       "PackagePath": "staticwebassets\\img\\h3-team-img-1.png"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\img\\h3-team-img-2.png",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\img\\h3-team-img-2.png",
       "PackagePath": "staticwebassets\\img\\h3-team-img-2.png"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\img\\h3-team-img-3.png",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\img\\h3-team-img-3.png",
       "PackagePath": "staticwebassets\\img\\h3-team-img-3.png"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\img\\h3-team-img-4.png",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\img\\h3-team-img-4.png",
       "PackagePath": "staticwebassets\\img\\h3-team-img-4.png"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\img\\h3-video-img.jpg",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\img\\h3-video-img.jpg",
       "PackagePath": "staticwebassets\\img\\h3-video-img.jpg"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\img\\instagram1.jpg",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\img\\instagram1.jpg",
       "PackagePath": "staticwebassets\\img\\instagram1.jpg"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\img\\instagram2.jpg",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\img\\instagram2.jpg",
       "PackagePath": "staticwebassets\\img\\instagram2.jpg"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\img\\instagram3.jpg",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\img\\instagram3.jpg",
       "PackagePath": "staticwebassets\\img\\instagram3.jpg"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\img\\instagram4.jpg",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\img\\instagram4.jpg",
       "PackagePath": "staticwebassets\\img\\instagram4.jpg"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\img\\instagram5.jpg",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\img\\instagram5.jpg",
       "PackagePath": "staticwebassets\\img\\instagram5.jpg"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\img\\instagram6.jpg",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\img\\instagram6.jpg",
       "PackagePath": "staticwebassets\\img\\instagram6.jpg"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\img\\instagram7.jpg",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\img\\instagram7.jpg",
       "PackagePath": "staticwebassets\\img\\instagram7.jpg"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\img\\instagram8.jpg",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\img\\instagram8.jpg",
       "PackagePath": "staticwebassets\\img\\instagram8.jpg"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\img\\logo.png",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\img\\logo.png",
       "PackagePath": "staticwebassets\\img\\logo.png"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\img\\shop-10-img.jpg",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\img\\shop-10-img.jpg",
       "PackagePath": "staticwebassets\\img\\shop-10-img.jpg"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\img\\shop-11-img.jpg",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\img\\shop-11-img.jpg",
       "PackagePath": "staticwebassets\\img\\shop-11-img.jpg"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\img\\shop-12-img.jpg",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\img\\shop-12-img.jpg",
       "PackagePath": "staticwebassets\\img\\shop-12-img.jpg"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\img\\shop-13-img.jpg",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\img\\shop-13-img.jpg",
       "PackagePath": "staticwebassets\\img\\shop-13-img.jpg"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\img\\shop-14-img.jpg",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\img\\shop-14-img.jpg",
       "PackagePath": "staticwebassets\\img\\shop-14-img.jpg"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\img\\shop-7-img.jpg",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\img\\shop-7-img.jpg",
       "PackagePath": "staticwebassets\\img\\shop-7-img.jpg"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\img\\shop-8-img.jpg",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\img\\shop-8-img.jpg",
       "PackagePath": "staticwebassets\\img\\shop-8-img.jpg"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\img\\shop-9-img.jpg",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\img\\shop-9-img.jpg",
       "PackagePath": "staticwebassets\\img\\shop-9-img.jpg"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\img\\shop-category-img-1.jpg",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\img\\shop-category-img-1.jpg",
       "PackagePath": "staticwebassets\\img\\shop-category-img-1.jpg"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\img\\shop-category-img-2.jpg",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\img\\shop-category-img-2.jpg",
       "PackagePath": "staticwebassets\\img\\shop-category-img-2.jpg"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\img\\shop-category-img-3.jpg",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\img\\shop-category-img-3.jpg",
       "PackagePath": "staticwebassets\\img\\shop-category-img-3.jpg"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\img\\shop-category-img-4.jpg",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\img\\shop-category-img-4.jpg",
       "PackagePath": "staticwebassets\\img\\shop-category-img-4.jpg"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\img\\shop-category-img-5.jpg",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\img\\shop-category-img-5.jpg",
       "PackagePath": "staticwebassets\\img\\shop-category-img-5.jpg"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\img\\shop-category-img-6.jpg",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\img\\shop-category-img-6.jpg",
       "PackagePath": "staticwebassets\\img\\shop-category-img-6.jpg"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\img\\testimonial-img-1.png",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\img\\testimonial-img-1.png",
       "PackagePath": "staticwebassets\\img\\testimonial-img-1.png"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\img\\testimonial-img-2.png",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\img\\testimonial-img-2.png",
       "PackagePath": "staticwebassets\\img\\testimonial-img-2.png"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\js\\script.js",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\js\\script.js",
       "PackagePath": "staticwebassets\\js\\script.js"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\owlcarousel\\owl.carousel.min.css",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\owlcarousel\\owl.carousel.min.css",
       "PackagePath": "staticwebassets\\owlcarousel\\owl.carousel.min.css"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\owlcarousel\\owl.carousel.min.js",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\owlcarousel\\owl.carousel.min.js",
       "PackagePath": "staticwebassets\\owlcarousel\\owl.carousel.min.js"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\owlcarousel\\owl.theme.default.min.css",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\owlcarousel\\owl.theme.default.min.css",
       "PackagePath": "staticwebassets\\owlcarousel\\owl.theme.default.min.css"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\sass\\lib\\_common.scss",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\sass\\lib\\_common.scss",
       "PackagePath": "staticwebassets\\sass\\lib\\_common.scss"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\sass\\lib\\_mixins.scss",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\sass\\lib\\_mixins.scss",
       "PackagePath": "staticwebassets\\sass\\lib\\_mixins.scss"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\sass\\lib\\_varibales.scss",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\sass\\lib\\_varibales.scss",
       "PackagePath": "staticwebassets\\sass\\lib\\_varibales.scss"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\sass\\sections\\_about.scss",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\sass\\sections\\_about.scss",
       "PackagePath": "staticwebassets\\sass\\sections\\_about.scss"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\sass\\sections\\_accordion.scss",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\sass\\sections\\_accordion.scss",
       "PackagePath": "staticwebassets\\sass\\sections\\_accordion.scss"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\sass\\sections\\_blog.scss",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\sass\\sections\\_blog.scss",
       "PackagePath": "staticwebassets\\sass\\sections\\_blog.scss"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\sass\\sections\\_experts.scss",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\sass\\sections\\_experts.scss",
       "PackagePath": "staticwebassets\\sass\\sections\\_experts.scss"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\sass\\sections\\_footer.scss",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\sass\\sections\\_footer.scss",
       "PackagePath": "staticwebassets\\sass\\sections\\_footer.scss"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\sass\\sections\\_header.scss",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\sass\\sections\\_header.scss",
       "PackagePath": "staticwebassets\\sass\\sections\\_header.scss"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\sass\\sections\\_instagram.scss",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\sass\\sections\\_instagram.scss",
       "PackagePath": "staticwebassets\\sass\\sections\\_instagram.scss"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\sass\\sections\\_product-list.scss",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\sass\\sections\\_product-list.scss",
       "PackagePath": "staticwebassets\\sass\\sections\\_product-list.scss"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\sass\\sections\\_product.scss",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\sass\\sections\\_product.scss",
       "PackagePath": "staticwebassets\\sass\\sections\\_product.scss"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\sass\\sections\\_progress.scss",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\sass\\sections\\_progress.scss",
       "PackagePath": "staticwebassets\\sass\\sections\\_progress.scss"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\sass\\sections\\_say.scss",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\sass\\sections\\_say.scss",
       "PackagePath": "staticwebassets\\sass\\sections\\_say.scss"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\sass\\sections\\_shop-list.scss",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\sass\\sections\\_shop-list.scss",
       "PackagePath": "staticwebassets\\sass\\sections\\_shop-list.scss"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\sass\\sections\\_slider.scss",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\sass\\sections\\_slider.scss",
       "PackagePath": "staticwebassets\\sass\\sections\\_slider.scss"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\sass\\sections\\_subscribe.scss",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\sass\\sections\\_subscribe.scss",
       "PackagePath": "staticwebassets\\sass\\sections\\_subscribe.scss"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\sass\\sections\\_tab.scss",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\sass\\sections\\_tab.scss",
       "PackagePath": "staticwebassets\\sass\\sections\\_tab.scss"
     },
     {
-      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Category crud\\Basket-task\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\sass\\style.scss",
+      "Id": "C:\\Users\\HP\\OneDrive\\Рабочий стол\\BackEnd\\Slider crud, File upload\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\sass\\style.scss",
       "PackagePath": "staticwebassets\\sass\\style.scss"
     },
     {

@@ -131,5 +131,57 @@ namespace EntityFramework_Slider.Areas.Admin.Controllers
 
             return View(slider);
         }
+
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> Edit(int? id,Slider slider)
+        {
+            if (id is null) return BadRequest();
+
+            Slider newSlider = await _context.Sliders.AsNoTracking().FirstOrDefaultAsync(m => m.Id == id);
+
+            if (!ModelState.IsValid)
+            {
+                return View(newSlider);
+            }
+
+            
+
+            Slider dbSlider = await _context.Sliders.AsNoTracking().FirstOrDefaultAsync(m => m.Id == id);
+
+            if (dbSlider is null) return NotFound();
+
+            if (!slider.Photo.CheckFileType("image/"))
+            {
+                ModelState.AddModelError("Photo", "File type must be image");
+                return View();
+            }
+
+            if (!slider.Photo.CheckFileSize(200))
+            {
+                ModelState.AddModelError("Photo", "Image size must be max 200kb");
+                return View();
+            }
+
+            string fileName = Guid.NewGuid().ToString() + "_" + slider.Photo.FileName;
+
+            string path = FileHelper.GetFilePath(_env.WebRootPath, "img", fileName);
+
+            
+
+            using (FileStream stream = new(path, FileMode.Create))
+            {
+                await slider.Photo.CopyToAsync(stream);
+            }
+
+            
+
+            _context.Sliders.Update(slider);
+
+            await _context.SaveChangesAsync();
+
+            return RedirectToAction(nameof(Index));
+
+        }
     }
 }

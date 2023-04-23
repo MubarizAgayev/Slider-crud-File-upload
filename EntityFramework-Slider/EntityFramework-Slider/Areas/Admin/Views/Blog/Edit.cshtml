@@ -1,4 +1,4 @@
-﻿@model Slider
+﻿@model Blog
 @{
     ViewData["Title"] = "Edit";
     Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
@@ -9,8 +9,14 @@
         <img src="~/img/@Model.Image" />
     </div>
     <form asp-action="Edit" asp-route-id="@Model.Id" method="post" enctype="multipart/form-data">
-        <input class="form-control"  asp-for="Photo" />
+        <input class="form-control" id="customFile" asp-for="Photo" />
         <span asp-validation-for="Photo"></span>
+        <input class="form-control" id="customFile" asp-for="Header" />
+        <span asp-validation-for="Header"></span>
+        <input class="form-control" id="customFile" asp-for="Description" />
+        <span asp-validation-for="Description"></span>
+        <input class="form-control" asp-for="Date" />
+        <span asp-validation-for="Date"></span>
         <div class="buttons my-3">
             <button type="submit" class="btn btn-primary">Submit</button>
             <a class="btn btn-light" asp-action="Index">Cancel</a>
